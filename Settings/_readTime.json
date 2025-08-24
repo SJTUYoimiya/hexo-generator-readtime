@@ -1119,21 +1119,21 @@
       "charPerMin": 255,
       "wordsPerMin": 158,
       "fuzzyTime": {
-        "pattern": "%(approx)s%(count)d%(time_unit)s",
-        "approx": "約",
+        "pattern": "%(count)d%(time_unit)s",
+        "approx": "约",
         "time_unit": {
-          "second": "秒",
-          "seconds": "秒",
-          "minute": "分鐘",
-          "minutes": "分鐘",
-          "hour": "小时",
-          "hours": "小时",
-          "day": "日",
-          "days": "日",
-          "month": "月",
-          "months": "月",
-          "year": "年",
-          "years": "年"
+          "second": "s",
+          "seconds": "s",
+          "minute": "min",
+          "minutes": "min",
+          "hour": "h",
+          "hours": "h",
+          "day": "d",
+          "days": "d",
+          "month": "m",
+          "months": "m",
+          "year": "y",
+          "years": "y"
         }
       }
     },
@@ -1146,21 +1146,21 @@
       "charPerMin": 255,
       "wordsPerMin": 158,
       "fuzzyTime": {
-        "pattern": "%(approx)s%(count)d%(time_unit)s",
+        "pattern": "%(count)d%(time_unit)s",
         "approx": "约",
         "time_unit": {
-          "second": "秒",
-          "seconds": "秒",
-          "minute": "分钟",
-          "minutes": "分钟",
-          "hour": "小时",
-          "hours": "小时",
-          "day": "日",
-          "days": "日",
-          "month": "月",
-          "months": "月",
-          "year": "年",
-          "years": "年"
+          "second": "s",
+          "seconds": "s",
+          "minute": "min",
+          "minutes": "min",
+          "hour": "h",
+          "hours": "h",
+          "day": "d",
+          "days": "d",
+          "month": "m",
+          "months": "m",
+          "year": "y",
+          "years": "y"
         }
       }
     },
@@ -1308,21 +1308,21 @@
       "charPerMin": 255,
       "wordsPerMin": 158,
       "fuzzyTime": {
-        "pattern": "%(approx)s%(count)d%(time_unit)s",
+        "pattern": "%(count)d%(time_unit)s",
         "approx": "约",
         "time_unit": {
-          "second": "秒",
-          "seconds": "秒",
-          "minute": "分钟",
-          "minutes": "分钟",
-          "hour": "小时",
-          "hours": "小时",
-          "day": "日",
-          "days": "日",
-          "month": "月",
-          "months": "月",
-          "year": "年",
-          "years": "年"
+          "second": "s",
+          "seconds": "s",
+          "minute": "min",
+          "minutes": "min",
+          "hour": "h",
+          "hours": "h",
+          "day": "d",
+          "days": "d",
+          "month": "m",
+          "months": "m",
+          "year": "y",
+          "years": "y"
         }
       }
     }
